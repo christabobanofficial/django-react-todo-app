@@ -14,3 +14,4 @@ tzdata==2026.2
 urllib3==2.7.0
 gunicorn
 python-dotenv
+dj-database-url
